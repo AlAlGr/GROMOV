@@ -1,6 +1,6 @@
 # ***Алексей Громов***
 
-<image src="https://imgur.com/a/VHCUvTa" alt="Hello world!">
+![Hello World!](https://imgur.com/a/VHCUvTa)
 
 ### Python разработчик
 

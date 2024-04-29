@@ -17,8 +17,8 @@
 ![](https://i.imgur.com/a/VHCUvTa.png)
 
 ### Я в соц сетях
-1 . [VK] (https://vk.com/alagr)
+1 . [VK](https://vk.com/alagr)
 
-2 . [TG] (https://t.me/inBCE)
+2 . [TG](https://t.me/inBCE)
 
 ### Мои проекты 

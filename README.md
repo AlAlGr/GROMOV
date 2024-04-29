@@ -23,6 +23,7 @@
 
 ### Мои проекты 
 
-```python 
-git pull && sbt compile 
+```bash 
+BiTCYPER.RU
 ```
+

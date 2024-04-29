@@ -1,5 +1,7 @@
 # ***Алексей Громов***
 
+![Hello World!](https://i.postimg.cc/sfKsWwqC/k-SEPB3zv-ZKg.png)
+
 ### Python разработчик
 
 1 . Создание Tg ботов

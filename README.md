@@ -24,6 +24,6 @@
 ### Мои проекты 
 
 ```bash 
-BiTCYPER.RU
+htttps://BiTCRYPEX.RU
 ```
 

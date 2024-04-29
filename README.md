@@ -22,3 +22,7 @@
 2 . [TG](https://t.me/inBCE)
 
 ### Мои проекты 
+
+```python 
+git pull && sbt compile 
+```

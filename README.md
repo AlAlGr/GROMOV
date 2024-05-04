@@ -2,7 +2,7 @@
 
 ### Python разработчик
 
- ![Привет, мир !](https://i.postimg.cc/sfKsWwqC/k-SEPB3zv-ZKg.png)
+ [Привет, мир !](https://i.postimg.cc/sfKsWwqC/k-SEPB3zv-ZKg.png)
 
 1 . **Создание Tg ботов**
 
@@ -18,8 +18,8 @@
 
 
 ### Я в соц сетях
-1 . [VK] - https://vk.com/CRYPTANER
+1 . ![VK] - https://vk.com/CRYPTANER
 
-2 . [TG] - https://t.me/CRYPTANER
+2 . ![TG] - https://t.me/CRYPTANER
 
 ### Мои проекты 

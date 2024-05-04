@@ -20,6 +20,8 @@
 ### Я в соц сетях
 1 . ![VK](https://vk.com/CRYPTANER)
 
-2 . ![TG](https://t.me/CRYPTANER)
+2 . ![TG][def]
 
 ### Мои проекты 
+
+[def]: https://t.me/CRYPTANER

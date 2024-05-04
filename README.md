@@ -18,10 +18,11 @@
 
 
 ### Я в соц сетях
-1 . ![VK](https://vk.com/CRYPTANER)
 
-2 . ![TG][def]
+[Skillbox Media](https://skillbox.ru/media/)
+
+[VK](https://vk.com/CRYPTANER)
+
+[TG](https://t.me/CRYPTANER)
 
 ### Мои проекты 
-
-[def]: https://t.me/CRYPTANER

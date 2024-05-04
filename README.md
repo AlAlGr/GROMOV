@@ -19,8 +19,6 @@
 
 ### Я в соц сетях
 
-[Skillbox Media](https://skillbox.ru/media/)
-
 [VK](https://vk.com/CRYPTANER)
 
 [TG](https://t.me/CRYPTANER)

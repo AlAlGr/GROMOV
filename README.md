@@ -17,9 +17,9 @@
 6 . SEO-оптимизация и продвижение сайтов
 
 ### Я в соц сетях
-1 . [VK](https://vk.com/KRYPTANER)
+1 . [VK](https://vk.com/CRYPTANER)
 
-2 . [TG](https://t.me/KRYPTANER)
+2 . [TG](https://t.me/CRYPTANER)
 
 ### Мои проекты 
 
